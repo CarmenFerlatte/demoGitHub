@@ -50,7 +50,7 @@
     {
         "name": "Accès rapide à la fonctionnalité 1",
         "description": "Description de la fonctionnalité 1",
-        "url": "/https://carmenferlatte.github.io/demoGitHub/",
+        "url": "/chemin-vers-fonctionnalite1",
         "icons": [
             {
                 "src": "images/shortcut-icon1.png",

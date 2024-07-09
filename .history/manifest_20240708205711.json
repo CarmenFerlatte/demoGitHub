@@ -38,38 +38,10 @@
 "screenshots": [{
     "src": "screenshots/screenshot1.png",
     "sizes": "640x480",
-    "type": "image/png"
-}, {
-    "src": "screenshots/screenshot2.png",
-    "sizes": "1280x720",
-    "type": "image/png"
-}
-],
-
-"shortcuts": [
-    {
-        "name": "Accès rapide à la fonctionnalité 1",
-        "description": "Description de la fonctionnalité 1",
-        "url": "/https://carmenferlatte.github.io/demoGitHub/",
-        "icons": [
-            {
-                "src": "images/shortcut-icon1.png",
-                "sizes": "192x192"
-            }
-        ]
-    },
-    {
-        "name": "Accès rapide à la fonctionnalité 2",
-        "description": "Description de la fonctionnalité 2",
-        "url": "/https://carmenferlatte.github.io/demoGitHub/",
-        "icons": [
-            {
-                "src": "images/shortcut-icon2.png",
-                "sizes": "192x192"
-            }
-        ]
-    }
-
-   
-
+    ]
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#3E4EB8",
+    "theme_color": "#2F3BA2"
+    
 }
