@@ -8,11 +8,11 @@
     "url": "/https://carmenferlatte.github.io/demoGitHub/",
     "short_name": "Weather",
     "icons": [{
-        "src": "images/icons/icon-48x48.png",
+        "src": "images/icons/icon-16x16.png",
         "sizes": "48x48",
         "type": "image/png"
     }, {
-        "src": "images/icons/icon-72x72.png",
+        "src": "images/icons/icon-48x48.png",
         "sizes": "72x72",
         "type": "image/png"
     }, {
