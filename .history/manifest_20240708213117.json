@@ -84,7 +84,7 @@
 
 "start_url": "/https://carmenferlatte.github.io/demoGitHub/",
 "display": "standalone",
-"display_override": ["fullscreen", "standalone", "minimal-ui", "browser"],
+"display_over"
 "background_color": "#f0f0f0",
 "theme_color": "#f0f0f0"
 

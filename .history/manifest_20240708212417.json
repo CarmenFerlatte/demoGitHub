@@ -1,6 +1,8 @@
 {
     "name": "Weather",
     "orientation": "portrait",
+    "protocol_handlers": [],
+    "display_override": []
     "description": "Une extension pour tester les manifestes",
     "manifest_version": 2,
     "version": "1.0",
@@ -74,17 +76,8 @@
 
 ],
 
-"protocol_handlers": [
-    {
-        "protocol": "web+demo",
-        "name": "Ouvrir dans Weather",
-        "url": "/https://carmenferlatte.github.io/demoGitHub/"
-    }
-],
-
 "start_url": "/https://carmenferlatte.github.io/demoGitHub/",
 "display": "standalone",
-"display_override": ["fullscreen", "standalone", "minimal-ui", "browser"],
 "background_color": "#f0f0f0",
 "theme_color": "#f0f0f0"
 
